@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>csharp-cloudfiles</id>
+    <version>3.0.3.0</version>
+    <title>csharp-cloudfiles</title>
+    <authors>Jason Meridth, Conrad Weidenkeller</authors>
+    <owners>Jason Meridth, Conrad Weidenkeller</owners>
+    <licenseUrl>http://github.com/rackspace/csharp-cloudfiles/blob/master/COPYING</licenseUrl>
+    <projectUrl>http://github.com/rackspace/csharp-cloudfiles</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# .NET API for Rackspace Cloud Files Cloud Storage</description>
+    <summary />
+    <copyright>Copyright (c) 2008, 2009 2010, 2011, 2012, Rackspace Managed Hosting.  All Rights Reserved</copyright>
+    <dependencies>
+      <dependency id="csharp-swift" version="1.0.2" />
+    </dependencies>
+  </metadata>
+</package>

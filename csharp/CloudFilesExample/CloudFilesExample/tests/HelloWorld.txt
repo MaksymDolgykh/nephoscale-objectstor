@@ -1,0 +1,3 @@
+Hi there,
+
+This file was uploaded to the Nephoscale Object Storage with csharp-cloudfiles.

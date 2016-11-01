@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>csharp-swift</id>
+    <version>1.0.2</version>
+    <title>csharp-swift</title>
+    <authors>Conrad Weidenkeller</authors>
+    <owners>Conrad Weidenkeller</owners>
+    <licenseUrl>http://github.com/cweidenkeller/csharp-swift/blob/master/LICENSE</licenseUrl>
+    <projectUrl>http://github.com/cweidenkeller/csharp-swift</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>A light http wrapper for the swift API implemented in C#</description>
+    <summary />
+    <copyright>Copyright (c) 2011, 2012, Conrad Weidenkeller.  All Rights Reserved</copyright>
+  </metadata>
+</package>
